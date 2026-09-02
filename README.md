@@ -24,6 +24,14 @@
 
 ---
 
+### 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,tailwind,nodejs,python,git,github,vscode,cloudflare&perline=8" alt="skills" />
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -45,14 +53,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yujianan123&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="streak" />
-</div>
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,tailwind,nodejs,python,git,github,vscode,cloudflare&perline=8" alt="skills" />
 </div>
 
 ---
