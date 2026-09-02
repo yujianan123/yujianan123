@@ -36,9 +36,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake-dark.svg?v=20260902" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg?v=20260902" />
+    <img alt="snake" src="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg?v=20260902" />
   </picture>
 </div>
 
