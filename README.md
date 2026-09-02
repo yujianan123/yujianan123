@@ -24,6 +24,18 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -41,18 +53,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,tailwind,nodejs,python,git,github,vscode,cloudflare&perline=8" alt="skills" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/yujianan123/yujianan123/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
